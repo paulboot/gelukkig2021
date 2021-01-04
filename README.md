@@ -8,6 +8,6 @@ This is my 2021 Christmas holidays project. I used two Micro:bit boards as Chris
 * and its follow-up [Flask Video Streaming Revisited](http://blog.miguelgrinberg.com/post/flask-video-streaming-revisited)
 * [Ajax/jQuery single page](https://www.youtube.com/watch?v=IZWtHsM3Y5A)
 
-## Screenshot
-
+## Screenshots
+![Home page animated screenshot](Gelukkig2021.gif)
 ![Home page screenshot](gelukkig2021-screenshot.png)
