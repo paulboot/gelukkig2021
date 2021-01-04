@@ -10,4 +10,5 @@ This is my 2021 Christmas holidays project. I used two Micro:bit boards as Chris
 
 ## Screenshots
 ![Home page animated screenshot](Gelukkig2021.gif)
+
 ![Home page screenshot](gelukkig2021-screenshot.png)
